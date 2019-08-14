@@ -25,7 +25,7 @@ yum install docker-compose
 
 ### A) Configure seu pipeline no Jenkins com o Jenkinsfile abaixo
 
-https://github.com/diellyr/Jenkinsfiles_Examples/blob/master/Jenkinsfile_docker-compose_Enquete
+https://github.com/diellyr/Jenkinsfiles_Examples/blob/master/Jenkinsfile_docker-compose_Enquete_devops
 
 
 - ### dicas para dar permissão de sudo para o Jenkins e Docker
