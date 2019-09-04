@@ -1,4 +1,5 @@
 # Documentação Show do Devops 1.0
+https://youtu.be/NlMCSnaAZm0
 
 obs : é necessário ter o docker instalado em seu Linux (apenas linux)
 
@@ -20,6 +21,9 @@ yum install docker-compose
 
 
 # Opção 1 - Subindo através de script Shell
+
+Veja os passos no link abaixo a partir do passo C:
+https://youtu.be/NlMCSnaAZm0
 
 A - baixar este repositório em sua máquina
 B - descompactar a pasta Enquete.tar.gz no terminal com o comando: tar -xvzf Enquete.tar.gz  
