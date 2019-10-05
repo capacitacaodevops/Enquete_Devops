@@ -30,7 +30,6 @@ select * from perguntas ;
 
 id | questao    |a     |b   |c   |d  |r   |r2    
 
-
 ---
 
 #  criando nova base
